@@ -2,5 +2,8 @@
 
 ## Halmoon Documentation
 
-Read the docs
+### Read the docs
 <https://www.gethalfmoon.com/docs/introduction/>
+
+#### Hosted here
+<https://ellitedev.github.io/projectweek1/>
